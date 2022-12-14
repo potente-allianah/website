@@ -1,0 +1,123 @@
+
+body{
+    background-image: url(moon.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#pls{
+    text-align: center;
+    padding: 20px;
+    border-radius: 40px; 
+    background-image: url(moon2.jpg);
+    color: black;
+    font-size: 70px;
+    margin-left: 90px;
+    margin-right:90px;
+}
+.heading{
+    text-align: center;
+    padding: 50px;
+    border-radius: 80px;   
+    background-image: url(moonie.jpg);
+    color: black;
+    font-size: 70px;
+    margin: 40px;
+    
+
+}
+marquee{
+    border-radius: 90px;   
+    background: lightpink;
+    color: black;
+ font-size: 25px;
+ font-style: italic;
+ font-family: Tahoma;
+ margin-left: 90px;
+ margin-right: 90px;
+ margin-top: 0px;
+}
+#Home-btn{
+    background-color: white; 
+    border: 1px solid black; 
+    color: black; 
+    padding: 10px 10px; 
+    cursor: pointer; 
+    width: 20%; 
+    float: left;
+    margin-left: 150px;
+}
+#AboutMe-btn{
+    background-color: white; 
+    border: 1px solid black; 
+    color: black; 
+    padding: 10px 10px; 
+    cursor: pointer; 
+    width: 20%; 
+    float: left;
+}
+#Gallery-btn{
+    background-color: white; 
+    border: 1px solid black; 
+    color: black; 
+    padding: 10px 10px; 
+    cursor: pointer; 
+    width: 20%; 
+    float: left;
+   
+}
+#Contact-btn{
+    background-color: white; 
+    border: 1px solid black;
+    color: black; 
+    padding: 10px 10px; 
+    cursor: pointer; 
+    width: 20%; 
+    float:left;
+    
+}
+#date{
+    background-color: white; 
+    border: 1px solid black; 
+    color: black; 
+    padding: 10px 10px; 
+    cursor: pointer; 
+    width: 20%; 
+    float: right;
+    margin-right: 600px;
+}
+
+.welcome{
+    text-align: center;
+    font-style:bold;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+}
+.intro{
+    text-align: center;
+    font-size: 25px;
+    font-style: bold;
+    font-family: 'Times New Roman';
+    background-color: lightpink;
+    border-radius: 50px;
+    margin-left: 70px;
+    margin-right:50px;
+    padding:20px;
+}
+img{
+    border: 10px dashed blue;
+}
+.vid{
+    text-align: center;
+    font-size: 25px;
+    font-style: bold;
+    font-family: 'Times New Roman';
+    background-color: lightpink;
+    border-radius: 50px;
+    margin-left: 300px;
+    margin-right:300px;
+    padding:20px;
+}
+
+

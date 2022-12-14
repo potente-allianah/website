@@ -1,0 +1,40 @@
+body{
+    background-image: url(moon.gif);
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+    background-attachment: fixed;
+}
+.go-back-btn{
+    background-color: white; 
+    border: 1px solid black; 
+    color: black; 
+    padding: 10px 10px; 
+    cursor: pointer; 
+    width: 20%; 
+    float: left;
+    margin-top: 50px;
+    margin-left: 600px;
+}
+#contacts{
+    text-align: center;
+    padding: 20px;
+    border-radius: 40px; 
+    background-image: url(moon2.jpg);
+    color: black;
+    font-size: 70px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right:150px;
+}
+.intro4{
+    text-align: center;
+    font-size: 25px;
+    font-style: bold;
+    font-family: 'Times New Roman';
+    background-color: lightpink;
+    border-radius: 50px;
+    margin-left: 200px;
+    margin-right:200px;
+    padding:20px;
+}
